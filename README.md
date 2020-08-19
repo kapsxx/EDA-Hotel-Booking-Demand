@@ -1,2 +1,5 @@
 # EDA-Hotel-Booking-Demand
-A brief descriptive analysis on "Hotel Booking" dataset using matplotlib.
+
+A brief and informative analysis on [Hotel Booking](https://www.kaggle.com/jessemostipak/hotel-booking-demand) data has been performed using matplotlib. The dataset used consists of 119390 rows and 32 columns including features such as hotel type, adults, children, babies, year of arrival, month of arrival, agents, country, etc along with some duplicate and null values. The dataset contains records of all the mentioned features from 01-July-2015 to 29-Aug-2017 surveyed on a daily basis. A brief analysis has been performed on almost all the features of the dataset and an informative graphical representation of the same is created using matplotlib. Along with the insights, brief and illustrative summaries are provided below each and every plot. The summaries include quick explanation of the attributes and their behaviour. Apart from this a new analysis on "Married Couple" is performed by logically understanding the dataset.
+
+***NOTE: The entire analysis along with the summaries are provided in the jupyter notebook attached.***
